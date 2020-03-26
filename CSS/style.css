@@ -1,0 +1,91 @@
+.header_area .main-menu .navbar-nav .active a{
+	background: -webkit-linear-gradient(yellow, green);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.header_area .main-menu .navbar-nav a:hover{
+	background: -webkit-linear-gradient(yellow, green);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+#about-intro{
+	text-align: center;margin-top: 2em; line-height: 20px
+}
+#about-text{
+	text-align: center;margin-top: 2em; line-height: 30px
+}
+#home{
+	text-align: center; color: green;margin-top: 2em;
+}
+h3{
+	text-align: center; color: green;margin-top:2em;margin-bottom: 2em;
+}
+.About-Document{
+	border: 10px solid green;
+}
+#Project-header{
+	text-align: center; color: green;margin-top:2em;margin-bottom: 2em;
+}
+#Skills li{
+	margin:2rem 0;
+}
+.bar{
+	background: green;
+	display: block;
+	height: 1em;
+	width: 30em;
+	border: 1px solid green;
+	border-radius: 3px;
+	overflow: hidden;
+	box-shadow: 0 0 10px yellow
+}
+.bar span{
+	height: 1em;
+	float: left;
+	background-color: yellow;
+}
+.html{
+	width: 90%;
+}
+.css{
+	width: 90%;
+}
+.js{
+	width: 70%;
+}
+.jq{
+	width: 70%;
+}
+.c{
+	width: 75%;
+}
+.python{
+	width: 65%;
+}
+.matlab{
+	width: 60%;
+}
+.bt{
+	width: 90%;
+}
+.react{
+	width: 60%;
+}
+.node{
+	width: 50%;
+}
+.exp{
+	width: 50%
+}
+.php{
+	width: 40%;
+}
+.opcv{
+	width: 70%;
+}
+.angular{
+	width: 50%;
+}
+.list-org {
+	border: 10px solid green;
+}
