@@ -72,18 +72,24 @@ h3{
 	width: 60%;
 }
 .node{
-	width: 50%;
+	width: 60%;
 }
 .exp{
 	width: 50%
 }
 .php{
-	width: 40%;
+	width: 80%;
 }
 .opcv{
 	width: 70%;
 }
 .angular{
+	width: 50%;
+}
+.mysql{
+	width: 70%
+}
+.django{
 	width: 50%;
 }
 .list-org {
